@@ -7,6 +7,7 @@ from django.http import JsonResponse
 from django.shortcuts import redirect
 from .filter import deco_login
 import datetime
+
 class LoginView(View):   
     def get(self,request):
         if  request.user.is_authenticated == True:
