@@ -46,6 +46,10 @@ python manage.py runserver
 
 <img width="1890" height="890" alt="image" src="https://github.com/user-attachments/assets/67978e2a-4935-48d3-9c36-083f6f5187e1" />
 
+## Demo login and password
+
+login: admin
+password: admin
 
 
 
