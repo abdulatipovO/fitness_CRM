@@ -26,6 +26,9 @@ cd fitness_CRM
 
 pip install -r requirements.txt
 
+# Run server
+python manage.py runserver
+
 ```
 ## 📸 Screenshots  
 
@@ -48,5 +51,4 @@ pip install -r requirements.txt
 
 
 
-# Run server
-python manage.py runserver
+
